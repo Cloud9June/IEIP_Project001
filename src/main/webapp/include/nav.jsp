@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<nav id="nav">
+	<nav id="nav" class="cf">
 		<ul>
 			<li><a href="mbrJoin.jsp">회원등록</a></li>
 			<li><a href="mbrList.jsp">회원목록조회/수정</a></li>
