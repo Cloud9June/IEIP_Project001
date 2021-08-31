@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>쇼핑몰 회원관리</title>
-<link rel="stylesheet" href="../css/style.css">
+<link rel="stylesheet" href="../css/style.css?ver=1">
 </head>
 <body>
 	<jsp:include page="../include/header.jsp"></jsp:include>
