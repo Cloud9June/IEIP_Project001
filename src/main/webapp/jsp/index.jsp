@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>쇼핑몰 회원관리</title>
+<title>쇼핑몰 회원관리(TEST)</title>
 <link rel="stylesheet" href="../css/style.css?ver=1">
 </head>
 <body>
